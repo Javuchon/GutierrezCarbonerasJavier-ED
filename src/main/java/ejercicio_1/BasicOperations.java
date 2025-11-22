@@ -9,6 +9,10 @@ public class BasicOperations {
         int a = in.nextInt();
         int b = in.nextInt();
 
+        int divisio = a / b;
+
+        System.out.println("Divisió: " + divisio);
+
         int resta = a - b;
 
         System.out.println("Resta: " + resta);
