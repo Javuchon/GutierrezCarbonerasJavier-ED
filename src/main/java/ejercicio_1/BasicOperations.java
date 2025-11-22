@@ -17,5 +17,8 @@ public class BasicOperations {
 
         System.out.println("Suma: " + suma);
 
+        int multiplicacio = a * b;
+
+        System.out.println("Multiplicació: " + multiplicacio);
     }
 }
